@@ -24,10 +24,10 @@ The goal is to extract insights into:
 ### Excel for Data Formatting & Pre-Processing  
 
 - Cleaned missing values and duplicates  
-- Formatted numeric fields (e.g., price, mileage, EMI)  
-- Standardized column names and categories  
-- Created calculated fields like EMI (if missing)  
-- Prepared structured layout for Power BI import  
+- Formatted numeric fields 
+- Standardized column names  
+- Created calculated fields 
+- Prepared structured layout  
 
 > Excel was used for quick and efficient pre-processing before loading data into Tableau.
 
