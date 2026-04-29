@@ -1,29 +1,70 @@
-# Tableau1
-HR ANALYTICS DASHBOARD
+# HR ANALYTICS DASHBOARD
+Tableau + Excel Project 
 
+---
+
+### Project Overview  
 In my project, the organization was experiencing a relatively high employee attrition rate, around 16%, and lacked a centralized view to understand the underlying drivers such as department, job role, compensation, and employee satisfaction.
 
-My objective was to design an interactive HR Analytics dashboard in Tableau that would enable stakeholders to:
-•	Monitor attrition trends 
-•	Identify high-risk employee segments 
-•	Analyze key factors influencing employee turnover 
-•	Support data-driven HR decision-making
-
-To achieve this, I performed the following steps:
-•	Data Preparation: Cleaned and validated the HR dataset, removed redundant fields, and created calculated metrics such as Attrition Count and Attrition Rate. 
-•	KPI Development: Designed key performance indicators including Total Employees, Attrition Count, Attrition Rate, Active Employees, and Average Age to provide a high-level overview. 
-•	Visualization Design: 
-o	Built department-wise attrition analysis to identify high-turnover areas 
-o	Created age group distribution to understand workforce demographics 
-o	Developed job satisfaction analysis across roles to evaluate engagement levels 
-o	Analyzed attrition by gender and across different age groups 
-o	Incorporated education field insights to assess background trends 
-•	Interactivity: 
-o	Added dynamic filters such as education and department 
-o	Enabled cross-filtering to allow users to drill down into specific segments 
-•	Dashboard Design: 
-o	Used a structured layout with KPIs at the top and detailed insights below 
-o	Applied consistent color coding to distinguish attrition clearly
+The goal is to extract insights into:
+- Monitor attrition trends  
+- Identify high-risk employee segments  
+- Analyze key factors influencing employee turnover 
 
 
+---
+
+### Tools & Technologies  
+- Tableau
+- Excel (data formatting & pre-processing)  
+
+
+---
+
+### Excel for Data Formatting & Pre-Processing  
+
+- Cleaned missing values and duplicates  
+- Formatted numeric fields (e.g., price, mileage, EMI)  
+- Standardized column names and categories  
+- Created calculated fields like EMI (if missing)  
+- Prepared structured layout for Power BI import  
+
+> Excel was used for quick and efficient pre-processing before loading data into Tableau.
+
+<img width="1364" height="699" alt="image" src="https://github.com/user-attachments/assets/db28df41-1020-4a1c-919c-58cfd58d7596" />
+
+
+
+---
+
+### Tableau Dashboards
+
+<img width="723" height="404" alt="image" src="https://github.com/user-attachments/assets/adb85cde-5629-4213-93f9-7d1d9cfba782" />
+
+-------------
+
+<img width="718" height="407" alt="image" src="https://github.com/user-attachments/assets/1e0f3559-8851-4bbd-a5fd-f61881ab5d7c" />
+
+-------------------
+<img width="722" height="398" alt="image" src="https://github.com/user-attachments/assets/42d0ab40-c7aa-4a22-be33-e61245da6339" />
+--------------------------
+
+<img width="727" height="399" alt="image" src="https://github.com/user-attachments/assets/5b8229b6-71e9-4405-a402-97f6839082e8" />
+
+<img width="728" height="400" alt="image" src="https://github.com/user-attachments/assets/364aa9b9-0938-41c7-8587-de3c4760f68b" />
+------------------
+
+<img width="723" height="404" alt="image" src="https://github.com/user-attachments/assets/bbfe99fc-53bf-4776-afa3-6c1bb62aa087" />
+
+
+-------------------------------
+### Insights & Findings  
+1. Certain departments and job roles have higher attrition.  
+2. Employees with lower job satisfaction are more likely to leave. 
+3. Overtime and lower salary levels are strongly correlated with attrition.   
+4. Early-career employees show higher turnover rates. 
+ 
+
+
+---
 
